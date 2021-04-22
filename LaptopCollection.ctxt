@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=LaptopCollection
+comment1.params=stringer
+comment1.target=LaptopCollection(StringLoader)
+comment10.params=
+comment10.target=void\ main()
+comment2.params=stringer\ random
+comment2.target=LaptopCollection(StringLoader,\ char)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment4.params=index
+comment4.target=Laptop\ getAt(int)
+comment5.params=
+comment5.target=int\ length()
+comment6.params=
+comment6.target=void\ sortByID()
+comment7.params=id
+comment7.target=Laptop\ searchByID(int)
+comment8.params=equalTo
+comment8.target=boolean\ equals(LaptopCollection)
+comment9.params=id
+comment9.target=Laptop\ getLaptop(int)
+numComments=11

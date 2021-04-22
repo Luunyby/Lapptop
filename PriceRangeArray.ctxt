@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=PriceRangeArray
+comment1.params=stringer\ low\ high
+comment1.target=PriceRangeArray(StringLoader,\ int,\ int)
+comment2.params=
+comment2.target=void\ main()
+numComments=3

@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=AppModel
+comment1.params=filename
+comment1.target=AppModel(java.lang.String)
+comment10.params=holdID
+comment10.target=int\ errorCheck(java.lang.String)
+comment2.params=id
+comment2.target=Laptop\ findLaptop(java.lang.String)
+comment3.params=
+comment3.target=int\ getNumFields()
+comment4.params=arrayNum
+comment4.target=java.lang.String\ getNameFields(int)
+comment5.params=arrayNum
+comment5.target=java.lang.String\ getFields(int)
+comment6.params=
+comment6.target=int\ length()
+comment7.params=holdID
+comment7.target=void\ writeLaptop(java.lang.String)
+comment8.params=low\ high
+comment8.target=void\ findPriceRange(java.lang.String,\ java.lang.String)
+comment9.params=holdBound
+comment9.target=int\ errorCheckPrice(java.lang.String)
+numComments=11

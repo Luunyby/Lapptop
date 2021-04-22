@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=AppView
+comment1.params=modelApp
+comment1.target=AppView(AppModel)
+comment2.params=id
+comment2.target=void\ setFields(java.lang.String)
+comment3.params=modelApp
+comment3.target=void\ update(AppModel)
+numComments=4

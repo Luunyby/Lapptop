@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=StringLoader
+comment1.params=
+comment1.target=StringLoader()
+comment2.params=filename
+comment2.target=void\ load(java.lang.String)
+comment3.params=filename
+comment3.target=int\ countRows(java.lang.String)
+comment4.params=filename\ rows
+comment4.target=boolean\ loadData(java.lang.String,\ int)
+comment5.params=
+comment5.target=boolean\ isReady()
+comment6.params=
+comment6.target=int\ getNumRows()
+comment7.params=
+comment7.target=java.lang.String[]\ getHeader()
+comment8.params=row
+comment8.target=java.lang.String[]\ getRow(int)
+comment9.params=
+comment9.target=void\ main()
+numComments=10
